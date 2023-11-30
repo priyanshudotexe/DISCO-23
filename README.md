@@ -18,6 +18,6 @@ This repository contains the project submission for:
 3. **Output (TXT File):**  
    The TXT file containing the project output.
    
-4. **Video (MP4 File)**
+4. **Video (MP4 File)**  
    This video contains the the detailed explanation for the code.
    
