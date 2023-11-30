@@ -5,7 +5,7 @@ This repository contains the project submission for:
 
 - **Priyanshu Choubey** (2022A7PS0318G)
 - **Ishaan Thakker** (2022A7PS0378G)
-- **Parv Jain** (2022A7PSXXXXG)
+- **Parv Jain** (2022A7PS0121G)
 
 ## Contents
 
@@ -17,3 +17,6 @@ This repository contains the project submission for:
 
 3. **Output (TXT File):**  
    The TXT file containing the project output.
+4. **Video (MP4 File)**
+   This video contains the the detailed explanation for the code
+   
